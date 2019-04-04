@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'xbarthe2019_Example' do
+  pod 'xbarthe2019', :path => '../'
+
+  target 'xbarthe2019_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
