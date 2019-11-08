@@ -11,6 +11,8 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+None, this is a token cocoapod project just to test creation and installation for Swift Piscine @ 42
+
 ## Installation
 
 xbarthe2019 is available through [CocoaPods](https://cocoapods.org). To install
